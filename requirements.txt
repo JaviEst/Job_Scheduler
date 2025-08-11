@@ -1,0 +1,4 @@
+jsonpatch
+prometheus_fastapi_instrumentator
+pydantic
+pydantic-settings
